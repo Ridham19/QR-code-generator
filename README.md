@@ -22,3 +22,8 @@ A simple QR code generator built using Python, `qrcode`, and `tkinter` libraries
 
 ```bash
 pip install qrcode[pil] Pillow
+```
+
+## Example
+
+![image will load](https://raw.githubusercontent.com/Ridham19/QR-code-generator/refs/heads/main/QR.png)
